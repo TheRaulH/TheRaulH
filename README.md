@@ -85,7 +85,12 @@ Me especializo en crear **aplicaciones web y móviles** con arquitecturas limpia
 ✔️ Arquitecturas escalables y limpias  
 
 ---
-
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+---
 ## 📂 Proyectos Destacados
 
 > ⚠️ *Reemplaza las imágenes y links por tus proyectos reales*
